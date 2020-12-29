@@ -1,0 +1,12 @@
+C:\Users\61468\source\repos\ForeignKey\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\Users\61468\source\repos\ForeignKey\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\61468\source\repos\ForeignKey\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\61468\source\repos\ForeignKey\ClassLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\61468\source\repos\ForeignKey\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\61468\source\repos\ForeignKey\ClassLibrary1\bin\Debug\EntityFramework.xml
+C:\Users\61468\source\repos\ForeignKey\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\61468\source\repos\ForeignKey\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\61468\source\repos\ForeignKey\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\61468\source\repos\ForeignKey\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CopyComplete
+C:\Users\61468\source\repos\ForeignKey\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\61468\source\repos\ForeignKey\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
